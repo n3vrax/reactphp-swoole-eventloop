@@ -1,0 +1,21 @@
+{
+  "name": "n3vrax/reactphp-swoole-eventloop",
+  "description": "ReactPHP event loop implementation wrapping Swoole event loop",
+  "type": "library",
+  "require": {
+    "php": "^7.0",
+    "react/event-loop": "^0.5.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "n3vrax",
+      "email": "n3vrax@gmail.com"
+    }
+  ],
+  "autoloading": {
+    "psr-4": {
+      "N3vrax\\React\\EventLoop\\": "src/"
+    }
+  }
+}
