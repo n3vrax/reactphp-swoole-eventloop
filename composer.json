@@ -13,7 +13,7 @@
       "email": "n3vrax@gmail.com"
     }
   ],
-  "autoloading": {
+  "autoload": {
     "psr-4": {
       "N3vrax\\React\\EventLoop\\": "src/"
     }
