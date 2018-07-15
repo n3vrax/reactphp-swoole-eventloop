@@ -8,13 +8,13 @@
 
 declare(strict_types=1);
 
-namespace N3vrax\React\EventLoop;
+namespace n3vrax\React\EventLoop;
 
 use React\EventLoop\TimerInterface;
 
 /**
  * Class Timer
- * @package N3vrax\React\EventLoop
+ * @package n3vrax\React\EventLoop
  */
 final class Timer implements TimerInterface
 {

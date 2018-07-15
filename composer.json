@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "N3vrax\\React\\EventLoop\\": "src/"
+      "n3vrax\\React\\EventLoop\\": "src/"
     }
   }
 }

@@ -8,7 +8,7 @@
 
 declare(strict_types=1);
 
-namespace N3vrax\React\EventLoop;
+namespace n3vrax\React\EventLoop;
 
 use React\EventLoop\LoopInterface;
 use React\EventLoop\SignalsHandler;
@@ -18,7 +18,7 @@ use Swoole\Event;
 
 /**
  * Class SwooleEventLoop
- * @package N3vrax\React\EventLoop
+ * @package n3vrax\React\EventLoop
  */
 final class SwooleEventLoop implements LoopInterface
 {
